@@ -82,7 +82,8 @@ Regular communication is important to me to ensure the project meets your expect
 
 ### Badges
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/M5rkn"><img src="https://github-readme-stats.vercel.app/api?username=M5rkn&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=6366f1&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="M5rkn's GitHub stats" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
