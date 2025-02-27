@@ -85,4 +85,4 @@ Regular communication is important to me to ensure the project meets your expect
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/M5rkn"><img src="https://github-readme-stats.vercel.app/api?username=M5rkn&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=6366f1&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="M5rkn's GitHub stats" /></a>
-<a href="https://github.com/M5rkn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M5rkn&langs_count=10&title_color=facc15&text_color=6366f1&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
