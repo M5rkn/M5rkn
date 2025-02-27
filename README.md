@@ -45,7 +45,7 @@ Regular communication is important to me to ensure the project meets your expect
 
 <a href="https://www.github.com/M5rkn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/M5rkn?logo=github&style=for-the badge&color=a855f7&labelColor=27272a" /></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
 
 ### Skills 
