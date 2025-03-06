@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Ilnytskyi
 ======================================================================================================================================
 
-Web Developer | HTML5, CSS3, SCSS, Git, GitHub
+Web Developer | HTML5, CSS3, SCSS, JS, Git
 ----------------------------------------------
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -32,7 +32,7 @@ Web Developer | HTML5, CSS3, SCSS, Git, GitHub
 
 Web Developer with Experience in Website Creation
 
-I specialize in creating modern and functional websites. If you need a high-quality web resource, I can help. My experience includes working with HTML5, CSS3, SCSS, as well as using version control systems like Git and GitHub for efficient development and collaboration.
+I specialize in creating modern and functional websites. If you need a high-quality web resource, I can help. My experience includes working with HTML5, CSS3, SCSS, JS, as well as using version control systems like Git and GitHub for efficient development and collaboration.
 
 Since November 2024, I’ve been on my web development journey, and I’m getting better every day! I’m currently actively learning JavaScript to expand my skills and become a full-fledged Frontend Developer.
 
