@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Ilnytskyi
 ======================================================================================================================================
 
-Web Developer | HTML5, CSS3, SCSS, JS, Git
+Web Developer | HTML5, CSS3, SCSS, JS, Node.js, React, Bootstrap, Express, MongoDB
 ----------------------------------------------
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -30,18 +30,47 @@ Web Developer | HTML5, CSS3, SCSS, JS, Git
 </div>
 <br>
 
-Web Developer with Experience in Website Creation
+Hi, I'm Mark — Full-Stack Developer
+18 years old | 1 year of experience
+I build turnkey websites — from landing pages to complex projects with authentication, databases, and admin panels.
 
-I specialize in creating modern and functional websites. If you need a high-quality web resource, I can help. My experience includes working with HTML5, CSS3, SCSS, JS, as well as using version control systems like Git and GitHub for efficient development and collaboration.
+What I Can Do:
 
-Since November 2024, I’ve been on my web development journey, and I’m getting better every day! I’m currently actively learning JavaScript to expand my skills and become a full-fledged Frontend Developer.
+Landing pages, blogs, corporate websites
+Registration/login with validation
+Admin panel for content management
+Password recovery via email/SMS
+Responsive design, animations, parallax effects
+Technologies:
 
-Regular communication is important to me to ensure the project meets your expectations. Let’s stay in touch and bring your ideas to life!
-*   🌍  I'm based in Germany
-*   ✉️  You can contact me at [markoilynickiy@gmail.com](mailto:markoilynickiy@gmail.com)
-*   🧠  I'm learning JavaScript and modern frontend frameworks (React, Vue).
-*   🤝  I'm open to collaborating on Open-source projects related to frontend development (HTML, CSS, JavaScript).
-*   ⚡  I’m passionate about learning new technologies and improving my coding skills every day.
+Frontend:
+HTML, CSS/SCSS, JavaScript (ES6+), Bootstrap, React (basics)
+
+Backend:
+Node.js, Express
+
+Databases:
+MongoDB (CRUD, authentication)
+
+Other:
+WordPress, Figma, Adobe XD, PSD → HTML/CSS
+
+Client Benefits:
+
+Free minor fixes after delivery
+Assistance with design and project launch
+Speed optimization and responsiveness
+What You'll Get:
+
+Source code (HTML, CSS, JS, Node.js)
+Setup instructions (if needed)
+Post-delivery support
+What I Need from You:
+
+Design mockup (Figma/PSD/XD) or requirements
+Feature details
+Timeline and budget
+Open for projects! Contact me via GitHub or email.
 
 <a href="https://www.github.com/M5rkn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/M5rkn?logo=github&style=for-the badge&color=a855f7&labelColor=27272a" /></a>
 
