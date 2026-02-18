@@ -30,48 +30,77 @@ Web Developer | HTML5, CSS3, SCSS, JS, Node.js, React, Bootstrap, Express, Mongo
 </div>
 <br>
 
-Hi, I'm Mark — Full-Stack Developer
-18 years old | 1 year of experience
-I build turnkey websites — from landing pages to complex projects with authentication, databases, and admin panels.
+ Hi, I'm Mark — Full-Stack Developer
+    18 years old | 1+ year of experience
 
-What I Can Do:
+ I build turnkey websites — from landing pages to complex web
+    applications with authentication, databases, admin panels, and
+    Telegram bots.
+    ---
+    🚀 What I Can Do:
+     - Landing pages, corporate websites, portfolios
+     - Web applications with real-time features (chat, analytics)
+     - Registration/login systems with validation
+     - Admin panels for content & order management
+     - Payment integration (Stripe, YooKassa)
+     - Telegram bots with menus, payments, notifications
+     - Password recovery via email/SMS
+     - Responsive design, animations, parallax effects
+     - CRM systems & event calendars
+    ---
+    🛠 Technologies:
+    Frontend:
+     - HTML5, CSS3/SCSS, JavaScript (ES6+)
+     - React 18, Vue.js 3
+     - Bootstrap, Material-UI, Vuetify
+     - GSAP, Three.js, Chart.js, Fancybox
 
-Landing pages, blogs, corporate websites
-Registration/login with validation
-Admin panel for content management
-Password recovery via email/SMS
-Responsive design, animations, parallax effects
-Technologies:
+   Backend:
+     - Node.js, Express, Socket.io
+     - Python, Aiogram (Telegram bots)
+     - PHP
 
-Frontend:
-HTML, CSS/SCSS, JavaScript (ES6+), Bootstrap, React (basics)
+   Databases:
+     - MongoDB, PostgreSQL, SQLite, Firebase, Redis
 
-Backend:
-Node.js, Express
+   APIs & Integrations:
+     - Google Calendar API, Stripe API, YooKassa API
+     - REST APIs, real-time WebSocket connections
 
-Databases:
-MongoDB (CRUD, authentication)
+   Design & Tools:
+     - Figma, Adobe XD, PSD → HTML/CSS
+     - WordPress, Git
 
-Other:
-WordPress, Figma, Adobe XD, PSD → HTML/CSS
+   ---
 
-Client Benefits:
+✅ Client Benefits:
 
-Free minor fixes after delivery
-Assistance with design and project launch
-Speed optimization and responsiveness
-What You'll Get:
+   - Free minor fixes after delivery
+     - Assistance with design and project launch
+     - Speed optimization and full responsiveness
+     - Clean, documented code
 
-Source code (HTML, CSS, JS, Node.js)
-Setup instructions (if needed)
-Post-delivery support
-What I Need from You:
+---
 
-Design mockup (Figma/PSD/XD) or requirements
-Feature details
-Timeline and budget
-Open for projects! Contact me via GitHub or email.
+   📦 What You'll Get:
 
+   - Source code (HTML, CSS, JS, Node.js, Python)
+     - Setup instructions (if needed)
+     - Post-delivery support
+
+   ---
+
+   📋 What I Need from You:
+
+   - Design mockup (Figma/PSD/XD) or requirements
+     - Feature details
+     - Timeline and budget
+
+   ---
+
+   💼 Open for projects!
+
+   Contact me via GitHub or email.
 <a href="https://www.github.com/M5rkn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/M5rkn?logo=github&style=for-the badge&color=a855f7&labelColor=27272a" /></a>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
