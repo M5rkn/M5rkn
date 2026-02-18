@@ -31,7 +31,7 @@ Web Developer | HTML5, CSS3, SCSS, JS, Node.js, React, Bootstrap, Express, Mongo
 <br>
 
  Hi, I'm Mark — Full-Stack Developer
-    18 years old | 1+ year of experience
+    19 years old | 2+ year of experience
 
  I build turnkey websites — from landing pages to complex web
     applications with authentication, databases, admin panels, and
